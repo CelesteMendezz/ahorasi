@@ -38,7 +38,7 @@ self.addEventListener('install', event => {
                 "/imagenes/Software.jpg",
                 "/imagenes/unam.jpg",
                 "/imagenes/valor.png",
-                "/https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d481940.39948932175!2d-99.76114982656249!3d19.318889500000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce00071fca0bad%3A0x9989fa5b4f526717!2sUniversidad%20Nacional%20Aut%C3%B3noma%20de%20M%C3%A9xico!5e0!3m2!1ses!2smx!4v1737595528056!5m2!1ses!2smx"
+                "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d481940.39948932175!2d-99.76114982656249!3d19.318889500000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce00071fca0bad%3A0x9989fa5b4f526717!2sUniversidad%20Nacional%20Aut%C3%B3noma%20de%20M%C3%A9xico!5e0!3m2!1ses!2smx!4v1737595528056!5m2!1ses!2smx"
             ]);
         })
     );
